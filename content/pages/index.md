@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Relentless Fitness
 slug: /
 sections:
   - type: GenericSection
