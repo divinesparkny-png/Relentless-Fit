@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "<div style=\"text-align: left\">631-398-0605</div>\n\n",
+    "text": "<div style=\"text-align: left\"></div>\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [],
