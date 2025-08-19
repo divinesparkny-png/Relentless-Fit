@@ -53,6 +53,7 @@ sections:
       - type: ImageBlock
         altText: Empathy logo
         elementId: ''
+        url: /images/IMG_0334.jpeg
       - type: ImageBlock
         url: /images/hero2.svg
         altText: Image alt text placeholder
