@@ -8,9 +8,35 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      ## Welcome to Relentless Fitness where strength is built, goals are
+      crushed, and excuses don’t exist.
+
+
+      ## Located right here in Ronkonkoma, Long Island, we’re more than just a
+      gym, we’re a movement. Our experienced trainers bring the energy,
+      knowledge, and drive to push you past your limits and unlock your full
+      potential. Whether you’re stepping into the gym for the first time or
+      leveling up your training, we’ve got the tools, coaching, and motivation
+      to get you there.
+
+
+      ## Every session is designed to challenge you, inspire you, and keep you
+      hungry for more. This isn’t about quick fixes, it’s about building lasting
+      strength, unstoppable confidence, and a lifestyle you’ll be proud of.
+
+
+      ## At Relentless Fitness, you don’t just work out-you rise, you fight, and
+      you transform.
+
+
+
+      Are you ready to join the movement?
+
+      -----------------------------------
+
+
+
     actions:
       - type: Button
         label: Get started
