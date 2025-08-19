@@ -33,14 +33,7 @@ sections:
 
       ###### Are you ready to join the movement?
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Untitled design (14).png
