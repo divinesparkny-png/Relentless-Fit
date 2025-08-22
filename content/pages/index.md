@@ -5,14 +5,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: ''
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Dope design preview
