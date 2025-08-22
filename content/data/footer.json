@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/Untitled design (14).png",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "<div style=\"text-align: left\"></div>\n\n",
     "primaryLinks": {
         "title": "Product",
